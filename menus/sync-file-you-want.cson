@@ -2,8 +2,8 @@
 'context-menu':
   'atom-text-editor': [
     {
-      'label': 'Toggle sync-file-you-want'
-      'command': 'sync-file-you-want:toggle'
+      'label': 'Sync File'
+      'command': 'sync-file-you-want:sync'
     }
   ]
 'menu': [
@@ -13,8 +13,8 @@
       'label': 'sync-file-you-want'
       'submenu': [
         {
-          'label': 'Toggle'
-          'command': 'sync-file-you-want:toggle'
+          'label': 'Sync File'
+          'command': 'sync-file-you-want:sync'
         }
       ]
     ]
