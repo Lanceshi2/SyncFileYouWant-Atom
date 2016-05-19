@@ -1,7 +1,7 @@
 {
   "name": "sync-file-you-want",
   "main": "./lib/sync-file-you-want",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Atom version of sync file you want",
   "keywords": [
   ],
