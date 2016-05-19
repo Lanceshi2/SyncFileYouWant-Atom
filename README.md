@@ -1,4 +1,4 @@
-# SyncFileYouWant
+# SyncFileYouWant-Atom
 
 This is the Atom version of SyncFileYouWant plugin. It supports syncing and merging (with meld merge) files between folders.
 
