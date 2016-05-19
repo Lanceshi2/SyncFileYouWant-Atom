@@ -4,6 +4,10 @@
     {
       'label': 'Sync File'
       'command': 'sync-file-you-want:sync'
+    },
+    {
+      'label': 'Merge File with Meld'
+      'command': 'sync-file-you-want:meldMerge'
     }
   ]
 'menu': [
@@ -15,6 +19,10 @@
         {
           'label': 'Sync File'
           'command': 'sync-file-you-want:sync'
+        },
+        {
+          'label': 'Merge File with Meld'
+          'command': 'sync-file-you-want:meldMerge'
         }
       ]
     ]

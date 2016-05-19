@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "sync-file-you-want:sync"
+    "atom-workspace": "sync-file-you-want:sync",
+    "atom-workspace": "sync-file-you-want:meldMerge"
   },
   "repository": "https://github.com/Lanceshi2/SyncFileYouWant-Atom",
   "license": "MIT",
